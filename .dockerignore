@@ -1,0 +1,20 @@
+# Ignore node modules
+app/node_modules
+
+# Ignore logs
+*.log
+
+# Ignore the build output directory
+dist/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore Go build files
+bin/
+pkg/
+vendor/
+
+# Ignore system files
+.DS_Store
