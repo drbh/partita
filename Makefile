@@ -11,6 +11,7 @@ deploy:
 	flyctl m run -a partita \
 	--memory 256 \
 	--cpus 1 \
+	--region sjc \
 	-p 443:3000/tcp:http:tls \
 	registry.fly.io/partita:latest 
 
