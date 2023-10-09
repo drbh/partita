@@ -8,7 +8,7 @@ partita means "match" in Italian and this is a simple implementation of a match-
 
 ### 🤳 Showcase
 
-<video src="./media/partita-demo.mp4" autoplay loop></video>
+https://github.com/drbh/partita/assets/9896130/bde9db8c-4af2-4dab-8bb9-e9a40a92064f
 
 ### 🤓 nerdy notes
 
